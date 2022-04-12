@@ -1,0 +1,21 @@
+{
+  "name": "atelier-6",
+  "version": "1.0.0",
+  "description": "socket.io project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "socket",
+    "express",
+    "nodejs"
+  ],
+  "author": "bassem jadoui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jquery": "^3.6.0",
+    "socket.io": "^4.4.1"
+  }
+}
