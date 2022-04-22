@@ -1,10 +1,11 @@
 {
-  "name": "atelier-6",
+  "name": "web chat",
   "version": "1.0.0",
   "description": "socket.io project",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build" : "npm run build"
   },
   "keywords": [
     "socket",
